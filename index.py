@@ -2,7 +2,7 @@ import random
 import time
 
 
-def main():   # this def allows a loop without a looping statemeant, see line 35.
+def main():   # this def allows a loop without a looping statemeant, see line 16, 24, 42 and 48.
 
     yeslist = ['yes', 'y', 'yeah', 'Y', 'YES']
 
